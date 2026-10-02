@@ -1,0 +1,20 @@
+C:\Гладышев\ТРПО\Практика 3\Практика 3\bin\Debug\net8.0-windows\Практика 3.exe
+C:\Гладышев\ТРПО\Практика 3\Практика 3\bin\Debug\net8.0-windows\Практика 3.deps.json
+C:\Гладышев\ТРПО\Практика 3\Практика 3\bin\Debug\net8.0-windows\Практика 3.runtimeconfig.json
+C:\Гладышев\ТРПО\Практика 3\Практика 3\bin\Debug\net8.0-windows\Практика 3.dll
+C:\Гладышев\ТРПО\Практика 3\Практика 3\bin\Debug\net8.0-windows\Практика 3.pdb
+C:\Гладышев\ТРПО\Практика 3\Практика 3\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Гладышев\ТРПО\Практика 3\Практика 3\obj\Debug\net8.0-windows\App.g.cs
+C:\Гладышев\ТРПО\Практика 3\Практика 3\obj\Debug\net8.0-windows\Практика 3_MarkupCompile.cache
+C:\Гладышев\ТРПО\Практика 3\Практика 3\obj\Debug\net8.0-windows\Практика 3_MarkupCompile.lref
+C:\Гладышев\ТРПО\Практика 3\Практика 3\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Гладышев\ТРПО\Практика 3\Практика 3\obj\Debug\net8.0-windows\Практика 3.g.resources
+C:\Гладышев\ТРПО\Практика 3\Практика 3\obj\Debug\net8.0-windows\Практика 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Гладышев\ТРПО\Практика 3\Практика 3\obj\Debug\net8.0-windows\Практика 3.AssemblyInfoInputs.cache
+C:\Гладышев\ТРПО\Практика 3\Практика 3\obj\Debug\net8.0-windows\Практика 3.AssemblyInfo.cs
+C:\Гладышев\ТРПО\Практика 3\Практика 3\obj\Debug\net8.0-windows\Практика 3.csproj.CoreCompileInputs.cache
+C:\Гладышев\ТРПО\Практика 3\Практика 3\obj\Debug\net8.0-windows\Практика 3.dll
+C:\Гладышев\ТРПО\Практика 3\Практика 3\obj\Debug\net8.0-windows\refint\Практика 3.dll
+C:\Гладышев\ТРПО\Практика 3\Практика 3\obj\Debug\net8.0-windows\Практика 3.pdb
+C:\Гладышев\ТРПО\Практика 3\Практика 3\obj\Debug\net8.0-windows\Практика 3.genruntimeconfig.cache
+C:\Гладышев\ТРПО\Практика 3\Практика 3\obj\Debug\net8.0-windows\ref\Практика 3.dll
